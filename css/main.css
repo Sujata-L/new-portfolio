@@ -278,6 +278,10 @@ figure {
     margin-bottom: 0;
 }
 
+figure img {
+  border-radius: 10px;
+}
+
 .launch,
 .rogue {
     display: flex;
